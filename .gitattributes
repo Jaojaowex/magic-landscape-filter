@@ -1,0 +1,6 @@
+src/** linguist-detectable
+dist/* linguist-vendored
+*.htm linguist-vendored
+
+go.sum linguist-generated
+*.jpg binary
